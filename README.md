@@ -12,4 +12,4 @@ The dataset used in this project was obtained from the [UCI Machine Learning Rep
 - Pandas
 - Matplotlib
 
-[View the Jupyter Notebook](https://github.com/yourusername/i94-heavy-traffic-indicators/blob/main/Finding_Heavy_Traffic_Indicators_on_I-94.ipynb)
+[View the Jupyter Notebook](https://github.com/WitoldStupnicki/i94-heavy-traffic-indicators/blob/main/Finding_Heavy_Traffic_Indicators_on_I-94.ipynb)
